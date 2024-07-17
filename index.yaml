@@ -1,0 +1,33 @@
+apiVersion: v1
+entries:
+  doinn-admin:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2023-04-17T14:17:23.004297+01:00"
+    description: The doinn-admin Helm chart for Kubernetes
+    digest: 2ad92688811a479a8d7c12d877031359ad3ae8688550af59cbee1f0fb80a30f3
+    name: doinn-admin
+    urls:
+    - charts/doinn-admin-0.3.0.tgz
+    version: 0.3.0
+  doinn-vendor:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2023-04-17T14:17:23.004942+01:00"
+    description: The doinn-vendor Helm chart for Kubernetes
+    digest: a47849a0bcb1963bd8aac7850d51e4d99f94f76f2bdbbb30bf89476ee82ad36a
+    name: doinn-vendor
+    urls:
+    - charts/doinn-vendor-0.3.0.tgz
+    version: 0.3.0
+  doinn-web:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2023-04-17T14:17:23.006659+01:00"
+    description: The doinn-web Helm chart for Kubernetes
+    digest: c3b494e45358b5710784cc5ed4e2ef690d7871aec89bf5401f70ae649b06430e
+    name: doinn-web
+    urls:
+    - charts/doinn-web-0.3.0.tgz
+    version: 0.3.0
+generated: "2023-04-17T14:17:23.001653+01:00"
